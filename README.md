@@ -1,13 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
   <h1 align="center">Hi 👋, I'm Joel</h1>
   <h3 align="center">A passionate fullStack developer from Colombia, I like learning and I am also a very friendly person</h3>
 </div>
 
-<div id="about-me">
-  ---
-  
-  - 🌱 I’m currently study on Campuslands
+---
+<div>
+  <h2>🕹️ About me</h2>
+  - 🧑‍🎓 I’m currently studying on Campuslands <br><br>
+  - 🌱 I’m currently learning English
+</div>
+
+<div align="left">
+  <h2>🖥️ Languages and Tools</h2>
 </div>
 
 <!--
