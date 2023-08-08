@@ -4,6 +4,12 @@
   <h3 align="center">A passionate fullStack developer from Colombia, I like learning and I am also a very friendly person</h3>
 </div>
 
+<div id="about-me">
+  ---
+  
+  - 🌱 I’m currently study on Campuslands
+</div>
+
 <!--
 **jogebro/jogebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
