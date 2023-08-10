@@ -7,8 +7,8 @@
 ---
 <div>
   <h2>🕹️ About me</h2>
-  - 🧑‍🎓 I’m currently studying on Campuslands <br><br>
-  - 🌱 I’m currently learning English <br><br>
+  - 🧑‍🎓 I’m currently studying on <strong>Campuslands</strong> <br><br>
+  - 🌱 I’m currently learning <strong>English</strong> <br><br>
   - ✉️ How to reach me <strong>joelabril2110@gmail.com</strong>
 </div>
 
