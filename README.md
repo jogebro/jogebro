@@ -22,7 +22,7 @@
 <br>-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
-<br>-𝗔𝗣𝗜-<br>
+<br>-𝗧𝗲𝘀𝘁 𝗔𝗣𝗜-<br>
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
 <br>-𝗗𝗲𝘀𝗶𝗴𝗻-<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
