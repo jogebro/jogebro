@@ -26,7 +26,7 @@
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
 <br>-𝗗𝗲𝘀𝗶𝗴𝗻-<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/canva-%23F24E1E.svg?style=for-the-badge&logo=canva&logoColor=white) 
+![Canva](https://img.shields.io/badge/canva-%2328f.svg?style=for-the-badge&logo=canva&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jogebro&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jogebro&theme=merko&hide_border=false)<br/>
