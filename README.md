@@ -19,7 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Typescript](https://img.shields.io/badge/typescript-%2310f.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231592E2.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Nestjs](https://img.shields.io/badge/nestjs-%23EB2621.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nestjs](https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=%23D83700)
 <br>-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
