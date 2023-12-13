@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
   <h1 align="center">Hi 👋, I'm Joel</h1>
   <h3 align="center">A passionate fullStack developer from Colombia, I like learning and I am also a very friendly person</h3>
+  <h4 align="center">take a look at some projects:</h4>
+  <a href="google.com">¡¡PORTFOLIO!!</a>
 </div>
 
 ---
